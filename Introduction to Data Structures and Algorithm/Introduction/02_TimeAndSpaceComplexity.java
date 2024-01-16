@@ -26,7 +26,7 @@
 //  Examples
 // Constant - O(1)
 
-public class Main{
+public class TimeAndSpaceComplexity{
     public static void main(String args[]){
         // Big O(1) - Constant
         int[] arr = new int[]{1,2,3,4,5};
